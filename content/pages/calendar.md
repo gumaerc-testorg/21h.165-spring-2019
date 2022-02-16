@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 3a7a650b-06f0-7bfd-5aa2-752b816822be
 ---
@@ -46,7 +48,7 @@ _Country assignments take place today._
 {{< tdopen colspan="3" >}}
 
 
-**Part I: An Overview of Africa before the 19th Century**
+**Part I: An Overview of Africa before the 19{{< sup "th" >}} Century**
 
 
 {{< tdclose >}}
@@ -63,7 +65,7 @@ _Country assignments take place today._
 {{< tdopen >}}
 
 
-The Slave Trade and West Africa to 19th Century 
+The Slave Trade and West Africa to 19{{< sup "th" >}} Century 
 
 
 {{< tdclose >}}
@@ -87,9 +89,9 @@ Map quiz (pass / fail) 
 {{< tdopen >}}
 
 
-Eastern, Central, and Southern Africa to 19th Century
+Eastern, Central, and Southern Africa to 19{{< sup "th" >}} Century
 
-_What were the major developments in your country in the 19th Century? Where did you get your information?_
+_What were the major developments in your country in the 19{{< sup "th" >}} Century? Where did you get your information?_
 
 
 {{< tdclose >}}
@@ -102,7 +104,7 @@ _What were the major developments in your country in the 19th Century? Where did
 {{< tdopen colspan="3" >}}
 
 
-**Part II: Colonial Conquest in 19th Century**
+**Part II: Colonial Conquest in 19{{< sup "th" >}} Century**
 
 
 {{< tdclose >}}
@@ -119,7 +121,7 @@ _What were the major developments in your country in the 19th Century? Where did
 {{< tdopen >}}
 
 
-19th Century and Colonial Conquest
+19{{< sup "th" >}} Century and Colonial Conquest
 
 
 {{< tdclose >}}

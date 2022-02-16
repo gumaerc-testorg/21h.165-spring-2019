@@ -1,14 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Videos
 uid: e5599ea8-ba7a-684b-48f4-0ed73f874498
 ---
 
-\[S\] = Shillington, Kevin. _History of Africa_. 3rd ed. Palgrave Macmillan, 2012. ISBN: 9780230308473. 
+\[S\] = Shillington, Kevin. _History of Africa_. 3{{< sup "rd" >}} ed. Palgrave Macmillan, 2012. ISBN: 9780230308473. 
 
 \[M\] = Mutongi, Kenda. _Matatu: A History of Popular Transportation in Nairobi_. University of Chicago Press, 2017. ISBN: 9780226471396.
 
-\[W\] = Worger, William H., Clark, Nancy L., and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2nd ed. Oxford University Press, 2010. ISBN: 9780195373134. 
+\[W\] = Worger, William H., Clark, Nancy L., and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2{{< sup "nd" >}} ed. Oxford University Press, 2010. ISBN: 9780195373134. 
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -66,7 +68,7 @@ _Twitter_
 {{< tdopen colspan="3" >}}
 
 
-**Part I: An Overview of Africa before the 19th Century**
+**Part I: An Overview of Africa before the 19{{< sup "th" >}} Century**
 
 
 {{< tdclose >}}
@@ -83,7 +85,7 @@ _Twitter_
 {{< tdopen >}}
 
 
-The Slave Trade and West Africa to 19th Century 
+The Slave Trade and West Africa to 19{{< sup "th" >}} Century 
 
 
 {{< tdclose >}}
@@ -113,7 +115,7 @@ _Readings_
 {{< tdopen >}}
 
 
-Eastern, Central, and Southern Africa to 19th Century
+Eastern, Central, and Southern Africa to 19{{< sup "th" >}} Century
 
 
 {{< tdclose >}}
@@ -138,7 +140,7 @@ _Readings_
 {{< tdopen colspan="3" >}}
 
 
-**Part II: Colonial Conquest in 19th Century**
+**Part II: Colonial Conquest in 19{{< sup "th" >}} Century**
 
 
 {{< tdclose >}}
@@ -155,7 +157,7 @@ _Readings_
 {{< tdopen >}}
 
 
-19th Century and Colonial Conquest
+19{{< sup "th" >}} Century and Colonial Conquest
 
 
 {{< tdclose >}}

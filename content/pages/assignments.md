@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: df463f29-18b2-eeb6-4406-a20010b21a4b
 ---
@@ -13,8 +16,8 @@ _Essay #1_
 
 Pick ONE question only:
 
-1.  Shillington seems to suggest that it was largely Europeans and African chiefs and leaders who led the social-economic and political changes that took place in Africa between the 16th and 19th centuries. Do you agree with him? To what extent were the actions of ordinary men and women important to these changes?
-2.  Discuss some of the ways in which the ecology and physical environments of eastern and central Africa helped structure the history of these regions between 16th and 19th centuries?
+1.  Shillington seems to suggest that it was largely Europeans and African chiefs and leaders who led the social-economic and political changes that took place in Africa between the 16{{< sup "th" >}} and 19{{< sup "th" >}} centuries. Do you agree with him? To what extent were the actions of ordinary men and women important to these changes?
+2.  Discuss some of the ways in which the ecology and physical environments of eastern and central Africa helped structure the history of these regions between 16{{< sup "th" >}} and 19{{< sup "th" >}} centuries?
 3.  Please explain the connections (if any) between the trans-Saharan trade and the trans-Atlantic slave trade.
 
 The paper should be 2–3 pages long, double spaced.

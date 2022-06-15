@@ -1,610 +1,218 @@
 ---
 content_type: page
+description: This section contains the course topics and key due dates.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 3a7a650b-06f0-7bfd-5aa2-752b816822be
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES#
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 DUE DATES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Introduction: Representations of Africa and of Africans
 
-_Country assignments take place today._
+*Country assignments take place today.*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
-**Part I: An Overview of Africa before the 19{{< sup "th" >}} Century**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Part I: An Overview of Africa before the 19**{{< sup "th" >}} **Century**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 The Slave Trade and West Africa to 19{{< sup "th" >}} Century 
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Map quiz (pass / fail) 
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Eastern, Central, and Southern Africa to 19{{< sup "th" >}} Century
 
-_What were the major developments in your country in the 19{{< sup "th" >}} Century? Where did you get your information?_
+*What were the major developments in your country in the 19*{{< sup "th" >}} *Century? Where did you get your information?*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
-**Part II: Colonial Conquest in 19{{< sup "th" >}} Century**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+**Part II: Colonial Conquest in 19**{{< sup "th" >}} **Century**
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 19{{< sup "th" >}} Century and Colonial Conquest
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Take-home exam essay #1 due
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part III: The Workings of Colonialism**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 An Overview of Colonial Rule
 
-_Did colonialism create tribes? If so, how? If possible give an example from “your” country._
+*Did colonialism create tribes? If so, how? If possible give an example from “your” country.*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Forced Labor and Taxation
 
-_Please take note of some of the colonial atrocities in “your” country._
+*Please take note of some of the colonial atrocities in “your” country.*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Capitalism and Segregation in South Africa
 
-_How did the African National Congress's goals and assumptions contrast with those of Hendrik Verwoerd and the other supporters of_ apartheid_? Did “your” country have a system similar to apartheid? Why or why not?_
+*How did the African National Congress's goals and assumptions contrast with those of Hendrik Verwoerd and the other supporters of* apartheid? *Did “your” country have a system similar to apartheid? Why or why not?*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part IV: Africans’ Everyday Response to Colonialism**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Gender and Earlier Forms of Resistance: Aba Riots in Nigeria
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Cultural Resistance: Female Circumcision Controversies in Kenya
 
-_Were there any cultural clashes between the colonizers and the Africans in “your” country?_
+*Were there any cultural clashes between the colonizers and the Africans in “your” country?*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Leisure in Colonial Africa: Football and Flicks in Zanzibar and Zambia
 
-_What are some of the ways in which Africans in “your__” country spent their leisure time?_
+*What are some of the ways in which Africans in “your*” *country spent their leisure time?*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Take-home exam essay #2 due
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part V: Decolonization**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Everyday Family Life in Rural Africa: An Example from Western Kenya
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 The Winning of Independence
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Theories of Decolonization
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Guerilla Warfare and Decolonization: The Case of Mau Mau
 
-_Did your country experience any violence during decolonization?_
+*Did your country experience any violence during decolonization?*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 The “End” of Apartheid
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part VI: Africa since Independence**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Africa since Independence: Aid?
 
-_Was structural adjustment good for Ghana, or for other African countries? Why or why not? What was your country’s experience with structural adjustment?_
+*Was structural adjustment good for Ghana, or for other African countries? Why or why not? What was your country’s experience with structural adjustment?*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Crises in the 1990s: The Rwandan Genocide
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Crises in the 1990s: AIDS
 
-_Please be prepared to talk about “your” country’s experience with HIV/AIDS._
+*Please be prepared to talk about “your” country’s experience with HIV/AIDS.*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part VII: African Entrepreneurship and China’s Involvement in Africa**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Nollywood
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Take–home exam essay #3 due
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Matatus in Kenya
 
-_Please be prepared to talk about some of the large-scale indigenous entrepreneurship activities in “your” country._
+*Please be prepared to talk about some of the large-scale indigenous entrepreneurship activities in “your” country.*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 China in Africa
 
-_Please be prepared to talk about some of the activities China is involved in with regard to “your” country._
+*Please be prepared to talk about some of the activities China is involved in with regard to “your” country.*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part VIII: The Afterlives of 21H.165: Modern African History**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Brief presentations of your final papers
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Brief presentations of your final papers
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Final paper due 
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -45,7 +46,7 @@ Shillington, Kevin. _History of Africa_. 3{{< sup "rd" >}} ed. Palgrave Macmill
 
 Worger, William H., Nancy L. Clark, and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2{{< sup "nd" >}} ed. Oxford University Press, 2010. ISBN: 9780195373134. \[Preview with [Google Books](https://books.google.com/books?id=8TXRCwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-In addition, we will read articles and book chapters that are available from other souces. These can be found in the [Readings]({{< baseurl >}}/pages/readingsandvideos) section.
+In addition, we will read articles and book chapters that are available from other souces. These can be found in the {{% resource_link e5599ea8-ba7a-684b-48f4-0ed73f874498 "Readings" %}} section.
 
 Because Africa is a continent of great diversity I will ask you to explore the history of one specific country in greater depth. During our first class meeting, I will randomly assign you one of the following countries to follow throughout the semester: Senegal, Ghana, Mali, Kenya, Ethiopia, Tanzania, Zambia, Zimbabwe, Mozambique, Sudan, Senegal, Nigeria, South Africa, and the Democratic Republic of Congo. Often assignments will include conducting independent research on your country, comparing it to general trends highlighted in class, and reporting on your country during our class meetings. The final writing assignment might also relate to your assigned country.
 
@@ -121,4 +122,4 @@ Final paper 
 
 {{< tableclose >}}
 
-For detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detail on the activities above, see the {{% resource_link df463f29-18b2-eeb6-4406-a20010b21a4b "Assignments" %}} section.

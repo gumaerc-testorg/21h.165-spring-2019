@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8c0464c2-d2f0-aa2b-f4a0-fe7234c24e16
 ---
@@ -17,7 +20,7 @@ There are no prerequisites for this course.
 Course Overview
 ---------------
 
-This course surveys the history of 19th\- and 20th\-century sub-Saharan Africa. The first section of the course focuses on the European conquest of Africa and the dynamics of colonial rule—especially its socio-economic and cultural consequences. The second section looks at how the rising tide of African nationalism, in the form of labor strikes and guerrilla wars, ushered out colonialism. The third section examines the postcolonial states, focusing on the politics of development, recent civil wars in countries like Rwanda and Liberia, and the AIDS epidemic. The last section surveys the history of entrepreneurship in the post-colonial period and China’s recent involvement in Africa.
+This course surveys the history of 19{{< sup "th" >}}\- and 20{{< sup "th" >}}\-century sub-Saharan Africa. The first section of the course focuses on the European conquest of Africa and the dynamics of colonial rule—especially its socio-economic and cultural consequences. The second section looks at how the rising tide of African nationalism, in the form of labor strikes and guerrilla wars, ushered out colonialism. The third section examines the postcolonial states, focusing on the politics of development, recent civil wars in countries like Rwanda and Liberia, and the AIDS epidemic. The last section surveys the history of entrepreneurship in the post-colonial period and China’s recent involvement in Africa.
 
 21H.165 is an introductory course, and requires no prior knowledge of African history. The course is structured around discussions and you are expected to contribute to the discussion.
 
@@ -26,7 +29,7 @@ Objectives
 
 This course will offer you:
 
-*   A basic narrative of sub-Saharan African history from 19th century to the present.
+*   A basic narrative of sub-Saharan African history from 19{{< sup "th" >}} century to the present.
 *   Detailed knowledge of the histories of select African countries (a country will be assigned to you at the beginning of the semester).
 *   An understanding of the framework in which sub-Saharan Africa has interacted with the rest of the world through the last century.
 *   A way to approach contemporary issues in African culture, politics, and society through a historical lens.
@@ -39,11 +42,11 @@ Please come to class meetings having done the readings listed for that day on th
 
 The main textbooks for the class are:
 
-Shillington, Kevin. _History of Africa_. 3rd ed. Palgrave Macmillan, 2012. ISBN: 9780230308473. 
+Shillington, Kevin. _History of Africa_. 3{{< sup "rd" >}} ed. Palgrave Macmillan, 2012. ISBN: 9780230308473. 
 
-Worger, William H., Nancy L. Clark, and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2nd ed. Oxford University Press, 2010. ISBN: 9780195373134. \[Preview with [Google Books](https://books.google.com/books?id=8TXRCwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Worger, William H., Nancy L. Clark, and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2{{< sup "nd" >}} ed. Oxford University Press, 2010. ISBN: 9780195373134. \[Preview with [Google Books](https://books.google.com/books?id=8TXRCwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-In addition, we will read articles and book chapters that are available from other souces. These can be found in the [Readings]({{< baseurl >}}/pages/readingsandvideos) section.
+In addition, we will read articles and book chapters that are available from other souces. These can be found in the {{% resource_link e5599ea8-ba7a-684b-48f4-0ed73f874498 "Readings" %}} section.
 
 Because Africa is a continent of great diversity I will ask you to explore the history of one specific country in greater depth. During our first class meeting, I will randomly assign you one of the following countries to follow throughout the semester: Senegal, Ghana, Mali, Kenya, Ethiopia, Tanzania, Zambia, Zimbabwe, Mozambique, Sudan, Senegal, Nigeria, South Africa, and the Democratic Republic of Congo. Often assignments will include conducting independent research on your country, comparing it to general trends highlighted in class, and reporting on your country during our class meetings. The final writing assignment might also relate to your assigned country.
 
@@ -119,4 +122,4 @@ Final paper 
 
 {{< tableclose >}}
 
-For detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detail on the activities above, see the {{% resource_link df463f29-18b2-eeb6-4406-a20010b21a4b "Assignments" %}} section.

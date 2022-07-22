@@ -1,14 +1,18 @@
 ---
 content_type: page
+description: This section contains the course topics and their accompanying readings
+  and videos.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Videos
 uid: e5599ea8-ba7a-684b-48f4-0ed73f874498
 ---
 
-\[S\] = Shillington, Kevin. _History of Africa_. 3rd ed. Palgrave Macmillan, 2012. ISBN: 9780230308473. 
+\[S\] = Shillington, Kevin. _History of Africa_. 3{{< sup "rd" >}} ed. Palgrave Macmillan, 2012. ISBN: 9780230308473. 
 
 \[M\] = Mutongi, Kenda. _Matatu: A History of Popular Transportation in Nairobi_. University of Chicago Press, 2017. ISBN: 9780226471396.
 
-\[W\] = Worger, William H., Clark, Nancy L., and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2nd ed. Oxford University Press, 2010. ISBN: 9780195373134. 
+\[W\] = Worger, William H., Clark, Nancy L., and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2{{< sup "nd" >}} ed. Oxford University Press, 2010. ISBN: 9780195373134. 
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -66,7 +70,7 @@ _Twitter_
 {{< tdopen colspan="3" >}}
 
 
-**Part I: An Overview of Africa before the 19th Century**
+**Part I: An Overview of Africa before the 19{{< sup "th" >}} Century**
 
 
 {{< tdclose >}}
@@ -83,7 +87,7 @@ _Twitter_
 {{< tdopen >}}
 
 
-The Slave Trade and West Africa to 19th Century 
+The Slave Trade and West Africa to 19{{< sup "th" >}} Century 
 
 
 {{< tdclose >}}
@@ -113,7 +117,7 @@ _Readings_
 {{< tdopen >}}
 
 
-Eastern, Central, and Southern Africa to 19th Century
+Eastern, Central, and Southern Africa to 19{{< sup "th" >}} Century
 
 
 {{< tdclose >}}
@@ -138,7 +142,7 @@ _Readings_
 {{< tdopen colspan="3" >}}
 
 
-**Part II: Colonial Conquest in 19th Century**
+**Part II: Colonial Conquest in 19{{< sup "th" >}} Century**
 
 
 {{< tdclose >}}
@@ -155,7 +159,7 @@ _Readings_
 {{< tdopen >}}
 
 
-19th Century and Colonial Conquest
+19{{< sup "th" >}} Century and Colonial Conquest
 
 
 {{< tdclose >}}
@@ -330,7 +334,7 @@ Gender and Earlier Forms of Resistance: Aba Riots in Nigeria
 
 _Readings_
 
-Van Allen, Judith. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“'Sitting on a Man': Colonialism and the Lost Political Institutions of Igbo Women.” (PDF - 2MB)](http://www.artsrn.ualberta.ca/amcdouga/Hist247/winter%202010/additional%20rdgs/sitting_on_man.pdf) _Canadian Journal of African Studies / Revue Canadienne des Études Africaines_ 6, no. 2 (1972): 165–81.
+Van Allen, Judith. [“'Sitting on a Man': Colonialism and the Lost Political Institutions of Igbo Women.” (PDF - 2MB)](http://www.artsrn.ualberta.ca/amcdouga/Hist247/winter%202010/additional%20rdgs/sitting_on_man.pdf) _Canadian Journal of African Studies / Revue Canadienne des Études Africaines_ 6, no. 2 (1972): 165–81.
 
 Bastian, Misty L. “'Vultures of the Marketplace': Southeastern Nigerian Women and Discourses of the _Ogu Umunwaayi_ (Women's War) of 1929.” Chapter 11 in _Women in African Colonial Histories_. Edited by Jean Allman, Susan Geiger, and Nakanyike Musisi. Indiana University Press, 2002. ISBN: 9780253215079. 
 
@@ -670,7 +674,7 @@ _Readings_
 
 Whiteside, Alan “[Poverty and HIV/AIDS in Africa](https://www.tandfonline.com/doi/abs/10.1080/01436590220126667).” _Third World Quarterly_ 23, no. 2 (2002): 313–32.
 
-Susser, Ida, and Zena Stein. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Culture, Sexuality, and Women's Agency in the Prevention of HIV/AIDS in Southern Africa.” (PDF)](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.90.7.1042) _American Journal of Public Health_ 90, no. 7 (2000): 1042–48.
+Susser, Ida, and Zena Stein. [“Culture, Sexuality, and Women's Agency in the Prevention of HIV/AIDS in Southern Africa.” (PDF)](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.90.7.1042) _American Journal of Public Health_ 90, no. 7 (2000): 1042–48.
 
 
 {{< tdclose >}}

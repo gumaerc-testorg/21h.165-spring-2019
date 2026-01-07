@@ -44,7 +44,7 @@ The main textbooks for the class are:
 
 Shillington, Kevin. _History of Africa_. 3{{< sup "rd" >}} ed. Palgrave Macmillan, 2012. ISBN: 9780230308473. 
 
-Worger, William H., Nancy L. Clark, and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2{{< sup "nd" >}} ed. Oxford University Press, 2010. ISBN: 9780195373134. \[Preview with {{% resource_link "a23ae4d9-ddd3-4d55-910c-64404181ba7f" "Google Books" %}}\]
+Worger, William H., Nancy L. Clark, and Edward A. Alpers. _Africa and the West: A Documentary History, Volume Two: From Colonialism to Independence, 1875 to the Present_. 2{{< sup "nd" >}} ed. Oxford University Press, 2010. ISBN: 9780195373134. \[Preview with [Google Books](https://books.google.com/books?id=8TXRCwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 In addition, we will read articles and book chapters that are available from other souces. These can be found in the {{% resource_link e5599ea8-ba7a-684b-48f4-0ed73f874498 "Readings" %}} section.
 
@@ -59,11 +59,11 @@ Writing is essential. Here is roughly speaking how I will evaluate ALL your writ
 
 _Writing Help_
 
-MIT’s {{% resource_link "92e4cbec-b16e-4fb9-8e49-67ce60d33ee9" "Writing and Communication Center" %}} offers MIT students free one-on-one advice on all types of academic, creative, and professional writing and about all aspects of oral presentations. The center’s website also lists online {{% resource_link "5d511ac0-8a8c-4ffc-8e28-3fadd39ab45a" "resources for writers" %}} on topics like “Understanding an Assignment” and “Avoiding Plagiarism.”
+MIT’s [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) offers MIT students free one-on-one advice on all types of academic, creative, and professional writing and about all aspects of oral presentations. The center’s website also lists online [resources for writers](https://cmsw.mit.edu/writing-and-communication-center/resources/writers/) on topics like “Understanding an Assignment” and “Avoiding Plagiarism.”
 
 _Plagiarism_
 
-{{% resource_link "05186ea8-fb4d-4a01-b0f4-a58ce092123e" "Academic Integrity at MIT: A Handbook for Students" %}} defines plagiarism in the following manner: 
+[Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/handbook/what-plagiarism) defines plagiarism in the following manner: 
 
 “Plagiarism occurs when you use another’s words, ideas, assertions, data, or figures and do not acknowledge that you have done so.
 
@@ -74,7 +74,7 @@ If you use the words, ideas, or phrasing of another person or from published mat
 
 If you use charts, graphs, data sets, or numerical information obtained from another person or from published material, you must also cite the source.
 
-You must always acknowledge your sources by citing them. In this way, you have the right to use another’s creative output by giving that person credit for the work s/he has done.” For more details, see {{% resource_link "486b5803-86b1-4482-9a1a-2c4c17db3f27" "Academic Integrity at MIT: A Handbook for Students" %}}.
+You must always acknowledge your sources by citing them. In this way, you have the right to use another’s creative output by giving that person credit for the work s/he has done.” For more details, see [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
 
 Grading
 -------

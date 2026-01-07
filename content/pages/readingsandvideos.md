@@ -28,17 +28,17 @@ Introduction: Representations of Africa and of Africans
 
 *Reading*
 
-Wainaina, Binyavanga. “{{% resource_link "c059d0c4-2fb6-4264-85d6-d0426575cc35" "How to Write about Africa" %}}.” *Granta* 92, May 2019. 
+Wainaina, Binyavanga. “[How to Write about Africa](https://granta.com/how-to-write-about-africa/).” *Granta* 92, May 2019. 
 
 *Video*
 
-“{{% resource_link "34f28b74-b76a-4aaa-a17f-8817a54d3fc0" "The Danger of a Single Story | Chimamanda Ngozi Adichie" %}}.” YouTube.
+“[The Danger of a Single Story | Chimamanda Ngozi Adichie](https://www.youtube.com/watch?v=D9Ihs241zeg).” YouTube.
 
-“{{% resource_link "c04d44c1-deb8-47e9-88f9-2eeee59ece5c" "African Men. Hollywood Stereotypes. \[Mamahope.org\]" %}}.” YouTube.
+“[African Men. Hollywood Stereotypes. \[Mamahope.org\]](https://www.youtube.com/watch?v=qSElmEmEjb4).” YouTube.
 
 *Twitter*
 
-“{{% resource_link "50fa5a77-e899-4f25-a78b-ebd2d92c245d" "#TheAfricaTheMediaNeverShowsYou" %}}.” 
+“[#TheAfricaTheMediaNeverShowsYou](https://twitter.com/hashtag/TheAfricaTheMediaNeverShowsYou?src=hash).” 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part I: An Overview of Africa before the 19**{{< sup "th" >}} **Century**
@@ -94,9 +94,9 @@ Eastern, Central, and Southern Africa to 19{{< sup "th" >}} Century
 
 *Video*
 
-“{{% resource_link "d8d9492d-dccf-4fee-b272-bd0ae60423b8" "The Bible and The Gun Pt.1" %}}.” YouTube.
+“[The Bible and The Gun Pt.1](https://www.youtube.com/watch?v=zDdBlO3XauA).” YouTube.
 
-“{{% resource_link "767cee5e-0df2-42a0-9b34-a4c45149a93a" "The African Cake" %}}.” YouTube.
+“[The African Cake](https://www.youtube.com/watch?v=XV8XsBPEdUI).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part III: The Workings of Colonialism**
@@ -114,9 +114,9 @@ An Overview of Colonial Rule
 
 \[S\] Chapter 25: The Second World War and Africa.
 
-\[W\] Chapter 1.5: Frederick Lugard Instructs His Officials on How to Implement Indirect Rule (1913–18). \[Preview with {{% resource_link "ace42d74-a865-422d-973a-bca088a1b3c2" "Google Books" %}}\]
+\[W\] Chapter 1.5: Frederick Lugard Instructs His Officials on How to Implement Indirect Rule (1913–18). \[Preview with [Google Books](https://books.google.com/books?id=8TXRCwAAQBAJ&pg=PA22=onepage#v=onepage&q&f=false)\]
 
-\[W\] Chapter 1.6: The French Practice Direct Rule to Enforce Submission (1908). \[Preview with {{% resource_link "9d9c5514-b325-47ea-b362-cf01d36adf45" "Google Books" %}}\]
+\[W\] Chapter 1.6: The French Practice Direct Rule to Enforce Submission (1908). \[Preview with [Google Books](https://books.google.com/books?id=8TXRCwAAQBAJ&pg=PA26=onepage#v=onepage&q&f=false)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -126,7 +126,7 @@ Forced Labor and Taxation
 
 *Readings*
 
-\[W\] Chapter 1.4: Evidence of Colonial Atrocities in the Belgian Congo (1903–5). \[Preview with {{% resource_link "3a6ac858-ee17-40fb-a8d3-45bf0a53afc7" "Google Books" %}}\]
+\[W\] Chapter 1.4: Evidence of Colonial Atrocities in the Belgian Congo (1903–5). \[Preview with [Google Books](https://books.google.com/books?id=8TXRCwAAQBAJ&pg=PA13=onepage#v=onepage&q&f=false)\]
 
 \[W\] Chapter 2.14: Forced Labor in Portugese Africa (1924).
 
@@ -156,7 +156,7 @@ Capitalism and Segregation in South Africa
 
 *Audio*
 
-“{{% resource_link "3a475ea1-a135-463e-81fe-cd907e4b9b41" "Mandela: An Audio History" %}}.” National Public Radio. April 29, 2004.
+“[Mandela: An Audio History](https://www.npr.org/2004/04/26/1851882/mandela-an-audio-history).” National Public Radio. April 29, 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part IV: Africans’ Everyday Response to Colonialism**
@@ -168,7 +168,7 @@ Gender and Earlier Forms of Resistance: Aba Riots in Nigeria
 
 *Readings*
 
-Van Allen, Judith. “{{% resource_link "99046845-1954-4a69-9ee3-42af25a0a45e" "'Sitting on a Man': Colonialism and the Lost Political Institutions of Igbo Women" %}}.” *Canadian Journal of African Studies / Revue Canadienne des Études Africaines* 6, no. 2 (1972): 165–81.
+Van Allen, Judith. “['Sitting on a Man': Colonialism and the Lost Political Institutions of Igbo Women](https://www.researchgate.net/publication/276939426_Sitting_on_a_Man_Colonialism_and_the_Lost_Political_Institutions_of_Igbo_Women).” *Canadian Journal of African Studies / Revue Canadienne des Études Africaines* 6, no. 2 (1972): 165–81.
 
 Bastian, Misty L. “'Vultures of the Marketplace': Southeastern Nigerian Women and Discourses of the *Ogu Umunwaayi* (Women's War) of 1929.” Chapter 11 in *Women in African Colonial Histories*. Edited by Jean Allman, Susan Geiger, and Nakanyike Musisi. Indiana University Press, 2002. ISBN: 9780253215079. 
 
@@ -180,9 +180,9 @@ Cultural Resistance: Female Circumcision Controversies in Kenya
 
 *Readings*
 
-Murray, Jocelyn. “{{% resource_link "ee1783c4-92df-4241-ae05-52c5c4799070" "The Church Missionary Society and the 'Female Circumcision' Issue in Kenya 1929–1932" %}}.” *Journal of Religion in Africa* 8, Facs. 2 (1976): 92–104.
+Murray, Jocelyn. “[The Church Missionary Society and the 'Female Circumcision' Issue in Kenya 1929–1932](https://www.jstor.org/stable/1594780?seq=1).” *Journal of Religion in Africa* 8, Facs. 2 (1976): 92–104.
 
-Thomas, Lynn M. “{{% resource_link "caa133a6-15ad-41ce-ac34-9b11b58d3cdc" "'*Ngaitana* (I will circumcise myself)': The Gender and Generational Politics of the 1956 Ban on Clitoridectomy in Meru, Kenya" %}}.” *Gender & History* 8, no. 3 (1996): 338–63.
+Thomas, Lynn M. “['*Ngaitana* (I will circumcise myself)': The Gender and Generational Politics of the 1956 Ban on Clitoridectomy in Meru, Kenya](https://www.ncbi.nlm.nih.gov/pubmed/12322506).” *Gender & History* 8, no. 3 (1996): 338–63.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -192,9 +192,9 @@ Leisure in Colonial Africa: Football and Flicks in Zanzibar and Zambia
 
 *Readings* 
 
-Fair, Laura. “{{% resource_link "6b14a09f-8f2b-446b-af06-10568c62a741" "Kickin' It: Leisure, Politics and Football in Colonial Zanzibar, 1900s–1950s" %}}.” *Africa* 67, no. 2 (1997): 224–51.
+Fair, Laura. “[Kickin' It: Leisure, Politics and Football in Colonial Zanzibar, 1900s–1950s](https://www.jstor.org/stable/1161443?seq=1).” *Africa* 67, no. 2 (1997): 224–51.
 
-Burns, James. “{{% resource_link "531ab9be-38d6-4f94-bc6c-974a699c1128" "John Wayne on the Zambezi: Cinema, Empire, and the American Western in British Central Africa" %}}.” *International Journal of African Historical Studies* 35, no. 1 (2002): 103-17.
+Burns, James. “[John Wayne on the Zambezi: Cinema, Empire, and the American Western in British Central Africa](https://www.jstor.org/stable/3097368?seq=1).” *International Journal of African Historical Studies* 35, no. 1 (2002): 103-17.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part V: Decolonization**
@@ -206,7 +206,7 @@ Everyday Family Life in Rural Africa: An Example from Western Kenya
 
 *Readings*
 
-Mutongi, Kenda. Excerpts from *Worries of the Heart: Widows, Family, and Community in Kenya*. University of Chicago Press, 2007. ISBN: 9780226554204. \[Preview with {{% resource_link "f5ec5591-5d2b-45a7-ac69-afd147f2d55f" "Google Books" %}}\]
+Mutongi, Kenda. Excerpts from *Worries of the Heart: Widows, Family, and Community in Kenya*. University of Chicago Press, 2007. ISBN: 9780226554204. \[Preview with [Google Books](https://books.google.com/books?id=k4C5Qd_Z4McC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -252,9 +252,9 @@ Guerilla Warfare and Decolonization: The Case of Mau Mau
 
 *\*\*Re-read pp. 405–6.\*\**
 
-Berman, Bruce J. “{{% resource_link "aabfa4cf-ff45-4b7d-b1e9-3df680ef1192" "Nationalism, Ethnicity, and Modernity: The Paradox of Mau Mau" %}}.” *Canadian Journal of African Studies / La Revue Canadienne des Études Africaines* 25, no. 2 (1991): 181–206.
+Berman, Bruce J. “[Nationalism, Ethnicity, and Modernity: The Paradox of Mau Mau](https://www.tandfonline.com/doi/abs/10.1080/00083968.1991.10803888).” *Canadian Journal of African Studies / La Revue Canadienne des Études Africaines* 25, no. 2 (1991): 181–206.
 
-Atieno-Odhiambo, E.S. “{{% resource_link "3013ddef-5b6c-4b4c-9177-fad268ccaaf5" "The Production of History in Kenya: The Mau Mau Debate" %}}.” *Canadian Journal of African Studies / La Revue Canadienne des Études Africaines* 25, no. 2 (1991): 300–307.
+Atieno-Odhiambo, E.S. “[The Production of History in Kenya: The Mau Mau Debate](https://www.tandfonline.com/doi/abs/10.1080/00083968.1991.10803893).” *Canadian Journal of African Studies / La Revue Canadienne des Études Africaines* 25, no. 2 (1991): 300–307.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -274,9 +274,9 @@ The “End” of Apartheid
 
 *Video*
 
-“{{% resource_link "936866fe-a8f1-4210-a92d-b0511a714603" "President Nelson Mandela Inauguration Speech May 10, 1994" %}}.” YouTube.
+“[President Nelson Mandela Inauguration Speech May 10, 1994](https://www.youtube.com/watch?v=pJiXu4q__VU).” YouTube.
 
-{{% resource_link "1205fa0b-3c5a-44b8-ac97-51d1ea2b0cba" "*Frontline: The Long Walk of Nelson Mandela*" %}}. Directed by Clifford Bestall. Color and Black and White, 111 min. 1999.
+[*Frontline: The Long Walk of Nelson Mandela*](https://www.pbs.org/wgbh/pages/frontline/shows/mandela/). Directed by Clifford Bestall. Color and Black and White, 111 min. 1999.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part VI: Africa since Independence**
@@ -310,13 +310,13 @@ Crises in the 1990s: The Rwandan Genocide
 
 \[W\] Chapter 8.67: Holding Someone Responsible (2007–8).
 
-Uvin, Peter. “{{% resource_link "47d60602-5404-41b9-b537-e017172776ed" "Reading the Rwandan Genocide" %}}.” *International Studies Review* 3, no. 3 (2001): 75–99.
+Uvin, Peter. “[Reading the Rwandan Genocide](https://www.jstor.org/stable/3186243?seq=1).” *International Studies Review* 3, no. 3 (2001): 75–99.
 
-Kanyangara, Patrick, Bernard Rimé, Pierre Philippot, et al. “{{% resource_link "5c484475-a399-4dcf-8b3b-ce89ad45150c" "Collective Rituals, Emotional Climate and Intergroup Perception: Participation in 'Gacaca' Tribunals and Assimilation of the Rwandan Genocide" %}}.” *Journal of Social Issues* 63, no. 2 (2007): 387–403.
+Kanyangara, Patrick, Bernard Rimé, Pierre Philippot, et al. “[Collective Rituals, Emotional Climate and Intergroup Perception: Participation in 'Gacaca' Tribunals and Assimilation of the Rwandan Genocide](https://www.researchgate.net/publication/227502642_Collective_Rituals_Emotional_Climate_and_Intergroup_Perception_Participation_in_Gacaca_Tribunals_and_Assimilation_of_the_Rwandan_Genocide).” *Journal of Social Issues* 63, no. 2 (2007): 387–403.
 
 *Video*
 
-{{% resource_link "73810493-7fb6-4a0c-93b6-f988ee5f997c" "*Forsaken Cries: The Story of Rwanda*" %}}. Directed by Kathi Lynn Austin and Andrea Torrice. Color, 35 min. 1997.
+[*Forsaken Cries: The Story of Rwanda*](https://www.imdb.com/title/tt5158098/). Directed by Kathi Lynn Austin and Andrea Torrice. Color, 35 min. 1997.
 
 *\*\*Please be warned: some of this is violent and disturbing.\*\**
 
@@ -330,9 +330,9 @@ Crises in the 1990s: AIDS
 
 \[W\] Chapter 7.58: Thabo Mbeki on AIDS and Poverty in Africa (2000).
 
-Whiteside, Alan “{{% resource_link "da4539a0-1ce8-4447-8970-be10941526ff" "Poverty and HIV/AIDS in Africa" %}}.” *Third World Quarterly* 23, no. 2 (2002): 313–32.
+Whiteside, Alan “[Poverty and HIV/AIDS in Africa](https://www.tandfonline.com/doi/abs/10.1080/01436590220126667).” *Third World Quarterly* 23, no. 2 (2002): 313–32.
 
-Susser, Ida, and Zena Stein. {{% resource_link "fe3704f7-bfc2-49c1-9f8c-3fe7d82fc082" "“Culture, Sexuality, and Women's Agency in the Prevention of HIV/AIDS in Southern Africa.” (PDF)" %}} *American Journal of Public Health* 90, no. 7 (2000): 1042–48.
+Susser, Ida, and Zena Stein. [“Culture, Sexuality, and Women's Agency in the Prevention of HIV/AIDS in Southern Africa.” (PDF)](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.90.7.1042) *American Journal of Public Health* 90, no. 7 (2000): 1042–48.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part VII: African Entrepreneurship and China’s Involvement in Africa**
@@ -344,9 +344,9 @@ Nollywood
 
 *Readings*
 
-Okome, Onookome. “{{% resource_link "1cfe88e8-b89d-4e99-bbfd-110bea065a6e" "Nollywood: Spectatorship, Audience and the Sites of Consumption" %}}.” *Postcolonial Text* 3, no. 2 (2007).
+Okome, Onookome. “[Nollywood: Spectatorship, Audience and the Sites of Consumption](https://www.postcolonial.org/index.php/pct/article/view/763/425).” *Postcolonial Text* 3, no. 2 (2007).
 
-Haynes, Jonathan. “{{% resource_link "d94e8755-cdea-4b8f-931c-6e23c1f0ac34" "Nollywood in Lagos, Lagos in Nollywood Films" %}}.” *Africa Today* 54, no. 2 (2007): 131–50.
+Haynes, Jonathan. “[Nollywood in Lagos, Lagos in Nollywood Films](https://www.jstor.org/stable/27666895?seq=1#metadata_info_tab_contents).” *Africa Today* 54, no. 2 (2007): 131–50.
 
 *Video*
 
@@ -360,9 +360,9 @@ Matatus in Kenya
 
 *Readings*
 
-\[M\] “Introduction: Matatu.” \[Preview with {{% resource_link "eb6ac601-66a3-4241-8ffd-0e11167fba3a" "Google Books" %}}\]
+\[M\] “Introduction: Matatu.” \[Preview with [Google Books](https://books.google.com/books?id=kHgkDwAAQBAJ&pg=PA3=onepage#v=onepage&q&f=false)\]
 
-\[M\] Chapter 1: The Only Way to Get There Was on Foot. \[Preview with {{% resource_link "a18154c1-a100-400e-9e98-79fa35fe4a35" "Google Books" %}}\]
+\[M\] Chapter 1: The Only Way to Get There Was on Foot. \[Preview with [Google Books](https://books.google.com/books?id=kHgkDwAAQBAJ&pg=PA16=onepage#v=onepage&q&f=false)\]
 
 \[M\] Chapter 2: It Is a Difficult System to Beat. 
 
@@ -376,9 +376,9 @@ China in Africa
 
 *Readings*
 
-Large, Daniel. “{{% resource_link "903d8c84-e5ba-4c1b-aa2e-cc2d975182bd" "Beyond ‘Dragon in the Bush’: The Study of China-Africa Relations" %}}.” *African Affairs* 107, Issue 426 (2008): 45–61.
+Large, Daniel. “[Beyond ‘Dragon in the Bush’: The Study of China-Africa Relations](https://academic.oup.com/afraf/article/107/426/45/51566).” *African Affairs* 107, Issue 426 (2008): 45–61.
 
-Mohan, Giles, and Ben Lampert. “{{% resource_link "a79858bd-1b19-4a3f-b7d7-dd5d2ba525fb" "Negotiating China: Reinserting African Agency into China–Africa Relations" %}}.” *African Affairs* 112, Issue 446 (2013): 92–110.
+Mohan, Giles, and Ben Lampert. “[Negotiating China: Reinserting African Agency into China–Africa Relations](https://academic.oup.com/afraf/article/112/446/92/10208).” *African Affairs* 112, Issue 446 (2013): 92–110.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part VIII: The Afterlives of 21H.165: Modern African History**
